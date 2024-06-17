@@ -1,7 +1,5 @@
 
-# Trip Scribe
-
-### Trip Scribe
+# 🌴 Trip Scribe 💼
 
 **Trip Scribe** is your ultimate travel companion, designed to make your packing experience smooth and stress-free. With a range of intuitive features, this app ensures you never forget an essential item again.
 
